@@ -24,3 +24,5 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
     - Depending on your theme, you may have issues with syntax highlighting. Please check the article above!
     - `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
     - `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+- Last but not least, you should toss the iterm2 guy a few bucks. It's a nice thing he's doing for the community.
+    - https://iterm2.com/donate.html
