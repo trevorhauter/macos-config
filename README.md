@@ -8,6 +8,11 @@ Here's how you become cool like trev. If you get stuck or confused, please refer
 -  Install iterm 2
     -  https://iterm2.com/
     -  `brew cask install iterm2`
+-  To set custom theme for iterm 2...
+    -  https://iterm2colorschemes.com/
+    - I like this one (AppleSystemColors)https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Apple%20System%20Colors.itermcolors
+    - Copy the content into a file locally that called "AppleSystemColors.itermcolors"
+    - In iterm2 go to settings > profiles > colors > color presets > import > select the file > click color presets > select the theme > Done!
 -  Install zsh and autocompletion
     - TODO: Isn't zsh already installed? Next time I set this up, see if we can drop the zsh install
     - `brew install zsh zsh-completions` 
