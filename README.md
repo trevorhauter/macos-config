@@ -20,8 +20,7 @@ Here's how you become cool like trev. If you get stuck or confused, please refer
     - `brew install zsh zsh-completions` 
 - Install oh-my-zsh
     - https://ohmyz.sh/#install
-    - Or just enter `su
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+    - Or just enter `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 -  Install auto sugestions and syntax highlighting to oh-my-zsh
     - Depending on your theme, you may have issues with syntax highlighting. Please check the article above!
     - `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
