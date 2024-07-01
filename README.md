@@ -5,11 +5,12 @@ Article with helpful info for reference: https://medium.com/@Clovis_app/configur
 Here's how you become cool like trev. If you get stuck or confused, please reference the article above.
 - Install brew
     - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"` 
-        - Read more at https://brew.sh/ 
+        - Read more at https://brew.sh/
+        - Tip: If you see `zsh: command not found: brew` Go here https://stackoverflow.com/questions/36657321/after-installing-homebrew-i-get-zsh-command-not-found-brew
+
 -  Install iterm 2
     - `brew cask install iterm2`  
         - Read more at https://iterm2.com/
-        - Tip: If you see `zsh: command not found: brew` Go here https://stackoverflow.com/questions/36657321/after-installing-homebrew-i-get-zsh-command-not-found-brew
 -  To set custom theme for iterm 2...
     -  https://iterm2colorschemes.com/
     - I like this one (AppleSystemColors)https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Apple%20System%20Colors.itermcolors
