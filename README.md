@@ -25,5 +25,9 @@ Here's how you become cool like trev. If you get stuck or confused, please refer
     - Depending on your theme, you may have issues with syntax highlighting. Please check the article above!
     - `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
     - `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+- After you've done all this, add your aliases, set your theme, and set your plugins in your new `.zshrc` file. Here are examples in my config
+    -  [Theme](https://github.com/trevorhauter/macos-config/blob/4cbe9fe6ecb3243ffc8c6a172dfd2e7358a3256a/.zshrc#L11)
+    -  [Plugins](https://github.com/trevorhauter/macos-config/blob/4cbe9fe6ecb3243ffc8c6a172dfd2e7358a3256a/.zshrc#L73)
+    -  [Aliases](https://github.com/trevorhauter/macos-config/blob/4cbe9fe6ecb3243ffc8c6a172dfd2e7358a3256a/.zshrc#L111)
 - Last but not least, you should toss the iterm2 guy a few bucks. It's a nice thing he's doing for the community.
     - https://iterm2.com/donate.html
