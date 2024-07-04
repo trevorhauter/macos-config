@@ -108,6 +108,9 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 export PATH="/Users/trevorhauter/Library/Python/3.9/bin:$PATH"
 
+# Basic aliases
+alias dl='cd ~/Downloads'
+
 # Git aliases
 alias pull="git pull"
 alias gcm="git commit -m"
@@ -116,7 +119,7 @@ alias newb="git checkout -b"
 alias s="git status"
 alias d="git diff"
 alias add="git add"
-alias pushcurrent="git push origin \$(git rev-parse --abbrev-ref HEAD)"
+alias push="git push origin \$(git rev-parse --abbrev-ref HEAD)"
 alias restore="git restore"
 alias fetch="git fetch"
 
@@ -129,23 +132,3 @@ alias migrate="python manage.py migrate"
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 export PATH="/Users/trevorhauter/Library/Python/3.9/bin:$PATH"
-
-# Git aliases
-alias pull="git pull"
-alias gcm="git commit -m"
-alias checkout="git checkout"
-alias newb="git checkout -b"
-alias s="git status"
-alias d="git diff"
-alias add="git add"
-alias pushcurrent="git push origin \$(git rev-parse --abbrev-ref HEAD)"
-alias restore="git restore"
-alias fetch="git fetch"
-
-# TBD aliases
-alias tbd="cd ~/Code/tbd-stills && source tbd_env/bin/activate"
-alias runtbd="tbd && python manage.py runserver"
-
-# Django aliases
-alias migrate="python manage.py migrate"
-alias test="echo 'test'"
