@@ -20,8 +20,8 @@ Article with helpful info for reference: https://medium.com/@Clovis_app/configur
 
 #  To set custom theme for iterm 2...
 -  https://iterm2colorschemes.com/
-- I like this one [AppleSystemColors](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Apple%20System%20Colors.itermcolors)
-- Copy the content into a file locally that called "AppleSystemColors.itermcolors"
+- I like this one [Apple Classic](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Apple%20Classic.itermcolors)
+- Copy the content into a file locally that called "AppleClassic.itermcolors"
 - In iterm2 go to `settings > profiles > colors > color presets > import > select the file > click color presets > select the theme > Done!`
 
 
