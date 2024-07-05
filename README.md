@@ -23,6 +23,7 @@ Article with helpful info for reference: https://medium.com/@Clovis_app/configur
 - I like this one [Apple Classic](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Apple%20Classic.itermcolors)
 - Copy the content into a file locally that called "AppleClassic.itermcolors"
 - In iterm2 go to `settings > profiles > colors > color presets > import > select the file > click color presets > select the theme > Done!`
+- Update the minimum contrast to 35. You'll thank me later! (In the same settings window)
 
 
 #  Install zsh and autocompletion
