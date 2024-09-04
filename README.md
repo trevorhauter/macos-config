@@ -25,11 +25,11 @@ Article with helpful info for reference: https://medium.com/@Clovis_app/configur
 - In iterm2 go to `settings > profiles > colors > color presets > import > select the file > click color presets > select the theme > Done!`
 - Update the minimum contrast to 35. You'll thank me later! (In the same settings window)
 
-# (Optional) Make iterm 2 transparent... trust me
+# (Optional) Make iterm 2 transparent. trust me!
 - go to settings
 - go to profiles
 - go to window
-- set transparency. I like around 10
+- set transparency. I like around 7-10
 
 #  Install zsh and autocompletion
 ```
