@@ -53,10 +53,10 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 # Configure your `.zshrc` file
 When you install oh-my-zsh, a config file is automatically generated. If you've installed the plugins I listed above, you'll want to edit the following places to ensure the theme and features are applied.
--  [Theme](https://github.com/trevorhauter/macos-config/blob/4cbe9fe6ecb3243ffc8c6a172dfd2e7358a3256a/.zshrc#L11)
--  [Plugins](https://github.com/trevorhauter/macos-config/blob/4cbe9fe6ecb3243ffc8c6a172dfd2e7358a3256a/.zshrc#L73)
--  [Brew](https://github.com/trevorhauter/macos-config/blob/5c586f4087e5db6b3661ee465b6d8260fc71c75a/.zshrc#L107)
--  [Aliases](https://github.com/trevorhauter/macos-config/blob/4cbe9fe6ecb3243ffc8c6a172dfd2e7358a3256a/.zshrc#L111)
+-  [Theme](https://github.com/trevorhauter/macos-config/blob/main/.zshrc#L11)
+-  [Plugins](https://github.com/trevorhauter/macos-config/blob/main/.zshrc#L73)
+-  [Brew](https://github.com/trevorhauter/macos-config/blob/main/.zshrc#L107)
+-  [Aliases](https://github.com/trevorhauter/macos-config/blob/main/.zshrc#L111)
   
 # Last but not least, you should toss the iterm2 guy a few bucks. It's a nice thing he's doing for the community.
     - https://iterm2.com/donate.html
