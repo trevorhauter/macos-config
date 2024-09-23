@@ -29,7 +29,7 @@ Article with helpful info for reference: https://medium.com/@Clovis_app/configur
 - go to settings
 - go to profiles
 - go to window
-- set transparency. I like around 7.
+- set transparency. I like around 5.
 - If you do this, you likely want to set blur as well. I set my blur to 15. This helps readability.
 
 #  Install zsh and autocompletion
