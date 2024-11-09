@@ -44,6 +44,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 Read more: https://ohmyz.sh/#install
 
+# turn reduced motion ON!
+- go into the macos accessibility settings and turn reduce motion on. it's epic. trust me!
 
 #  Install auto sugestions and syntax highlighting to oh-my-zsh
 ```
