@@ -14,23 +14,11 @@ Article with helpful info for reference: https://medium.com/@Clovis_app/configur
     - https://stackoverflow.com/questions/36657321/after-installing-homebrew-i-get-zsh-command-not-found-brew
 
 
-#  Install iterm 2
-- https://iterm2.com/
-
-
-#  To set custom theme for iterm 2...
--  https://iterm2colorschemes.com/
-- I like this one [Apple Classic](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Apple%20Classic.itermcolors)
-- Copy the content into a file locally that called "AppleClassic.itermcolors"
-- In iterm2 go to `settings > profiles > colors > color presets > import > select the file > click color presets > select the theme > Done!`
-- Update the minimum contrast to 35. You'll thank me later! (In the same settings window)
-
-# (Optional) Make iterm 2 transparent. trust me!
-- go to settings
-- go to profiles
-- go to window
-- set transparency. I like around 10.
-- If you do this, you likely want to set blur as well. I set my blur to 15. This helps readability.
+#  Install ghostty
+- https://formulae.brew.sh/cask/ghostty
+```sh
+brew install --cask ghostty
+```
 
 #  Install zsh and autocompletion
 ```
@@ -60,6 +48,3 @@ When you install oh-my-zsh, a config file is automatically generated. If you've 
 -  [Plugins](https://github.com/trevorhauter/macos-config/blob/main/.zshrc#L73)
 -  [Brew](https://github.com/trevorhauter/macos-config/blob/main/.zshrc#L107)
 -  [Aliases](https://github.com/trevorhauter/macos-config/blob/main/.zshrc#L111)
-  
-# Last but not least, you should toss the iterm2 guy a few bucks. It's a nice thing he's doing for the community.
-    - https://iterm2.com/donate.html
